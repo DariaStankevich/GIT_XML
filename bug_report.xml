@@ -1,1 +1,10 @@
-
+<?xml version-"1.0" endcoding="UTF-8"?>
+<bug_report>
+     <id>R4L_12</id>
+     <Titel>Кнопка войти не активна на странице авторизации</Titel>
+     <Preconditions>Открыть страницу авторизации</Preconditions>
+     <STR>Заполнить валидными данными поля авторизации и нажать кнопку войти</STR>
+     <ER>Вход воспроизведен корректно</ER>
+     <AR>Кнопка войти не активна после заполнения всех полей</AR>
+     <Attachments>Screenshot-004.png</Attachments>
+ </bug_report>
